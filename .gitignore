@@ -86,5 +86,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# mypy
-.mypy_cache/
+# 文档文件（作业等）
+docs/固收类赛道第1题姓名胡雨欣.docx
+docs/固收类赛道第1题姓名胡雨欣.pdf
